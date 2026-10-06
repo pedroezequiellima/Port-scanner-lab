@@ -1,0 +1,24 @@
+Python artifacts
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual environments
+
+.venv/
+env/
+venv/
+ENV/
+
+IDE files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+OS files
+
+.DS_Store
+Thumbs.db
